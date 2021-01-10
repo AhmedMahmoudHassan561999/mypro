@@ -1,0 +1,30 @@
+body {
+    background-image: url(oversized-tic-tac-toe-game.jpg );
+    background-size: cover;
+}
+p{
+    text-align: center;
+    color:rgb(19, 19, 36);
+    font-size: 100px;
+}
+div{
+    font-size: 80px;
+}
+a{
+    text-align: center;
+    font-size: 90px;
+    color:rgb(15, 15, 20);
+
+}
+a:hover{
+    color:rgb(75, 68, 68);
+    font-weight:bold;
+    text-decoration: none;
+}
+a:active
+{
+    color:rgb(167, 61, 114);
+    font-weight: bold;
+    text-decoration: none;
+
+}
